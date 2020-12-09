@@ -1,0 +1,30 @@
+body {
+    background-color:#132743;
+}
+
+hr {
+    border:#407088;
+    border-style: dotted none none none;
+    border-width: 10px;
+    width: 7%;
+}
+
+.heading{
+    color: #ffcbcb;
+}
+
+h3 {
+    color: #70adb5;
+}
+
+p {
+    color: beige;
+}
+
+img {
+    background-color: #132743;
+}
+
+.displaypic :hover{
+    background-color: #235269;
+}
